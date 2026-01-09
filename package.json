@@ -1,0 +1,23 @@
+{
+  "name": "usermanagement",
+  "version": "1.0.0",
+  "description": "(Name is work in progress)",
+  "directories": {
+    "doc": "doc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwphil/UserManagement.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kwphil/UserManagement/issues"
+  },
+  "homepage": "https://github.com/kwphil/UserManagement#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
